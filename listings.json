@@ -169,5 +169,24 @@
     "pets": true,
     "walkscore": 88,
     "notes": "Example — over budget tier. Luxury high-rise, rooftop pool, concierge. Stretch unit."
+  },
+  {
+    "id": "seed_camden_vanderbilt",
+    "name": "Camden Vanderbilt — 7171 Buffalo Speedway",
+    "price": 1919,
+    "sqft": 1350,
+    "beds": "2",
+    "baths": "2",
+    "neighborhood": "Braeswood Place / West U — near TMC, Rice, Museum District",
+    "available": "",
+    "status": "interested",
+    "beds2": true,
+    "wd": true,
+    "gym": true,
+    "homelab": false,
+    "parking": true,
+    "pets": true,
+    "walkscore": 73,
+    "notes": "2bd starts $1,919/mo. 3 pools, valet trash, attached garage/carport. Internet (Xfinity 175 Mbps) included in rent. Airbnb-friendly (90 days/yr). Near US-59, 610, I-45, 288. zillow.com/apartments/houston-tx/camden-vanderbilt/5Xhrzh/"
   }
 ]
