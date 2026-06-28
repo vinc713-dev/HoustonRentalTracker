@@ -1,12 +1,12 @@
 [
   {
     "id": "seed_bellrock",
-    "name": "Bellrock Summer Street â 3030 Summer St",
+    "name": "Bellrock Summer Street Ã¢ÂÂ 3030 Summer St",
     "price": 2039,
     "sqft": 1267,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Washington Ave / Memorial Park â near downtown",
+    "neighborhood": "Washington Ave / Memorial Park Ã¢ÂÂ near downtown",
     "available": "2026-06-16",
     "status": "interested",
     "beds2": true,
@@ -16,16 +16,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 73,
-    "notes": "Built 2019. 24/7 gym, rooftop deck, pool, dog park, garage parking. 2bd starts $2,039/mo. In-unit W/D NOT confirmed â verify. (832) 219-8636 | zillow.com/apartments/houston-tx/bellrock-summer-street/CkBNzz/"
+    "notes": "Built 2019. 24/7 gym, rooftop deck, pool, dog park, garage parking. 2bd starts $2,039/mo. In-unit W/D NOT confirmed Ã¢ÂÂ verify. (832) 219-8636 | zillow.com/apartments/houston-tx/bellrock-summer-street/CkBNzz/"
   },
   {
     "id": "seed_tinsley",
-    "name": "Tinsley on the Park â 919 Gillette St",
+    "name": "Tinsley on the Park Ã¢ÂÂ 919 Gillette St",
     "price": 1997,
     "sqft": 1382,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Fourth Ward â near downtown",
+    "neighborhood": "Fourth Ward Ã¢ÂÂ near downtown",
     "available": "2026-06-28",
     "status": "interested",
     "beds2": true,
@@ -35,16 +35,16 @@
     "parking": false,
     "pets": true,
     "walkscore": 40,
-    "notes": "ASK ABOUT UP TO 6 WEEKS FREE. 10,000 sqft gym, resort pool w/ cabanas, rooftop sky deck, concierge, massage room. No dedicated parking listed â verify. zillow.com/apartments/houston-tx/tinsley-on-the-park/CkBhGf/"
+    "notes": "ASK ABOUT UP TO 6 WEEKS FREE. 10,000 sqft gym, resort pool w/ cabanas, rooftop sky deck, concierge, massage room. No dedicated parking listed Ã¢ÂÂ verify. zillow.com/apartments/houston-tx/tinsley-on-the-park/CkBhGf/"
   },
   {
     "id": "seed_camden",
-    "name": "Camden Travis Street â 2700 Travis St",
+    "name": "Camden Travis Street Ã¢ÂÂ 2700 Travis St",
     "price": 1939,
-    "sqft": 1241,
+    "sqft": "1241",
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Midtown â walkable, near I-45/I-10/288",
+    "neighborhood": "Midtown Ã¢ÂÂ walkable, near I-45/I-10/288",
     "available": "2026-08-01",
     "status": "interested",
     "beds2": true,
@@ -54,16 +54,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 93,
-    "notes": "Walker's Paradise (93). 24hr gym, pool, detached garage, valet trash, study w/ built-in desk. Airbnb-friendly (up to 90 days/yr). zillow.com/apartments/houston-tx/camden-travis-street/5Xhrzz/"
+    "notes": "Walker's Paradise (93). 24hr gym, pool, detached garage, valet trash, study w/ built-in desk. Airbnb-friendly (up to 90 days/yr). zillow.com/apartments/houston-tx/camden-travis-street/5Xhrzz/\n\nGreat location, no balcony though"
   },
   {
     "id": "seed_instrata",
-    "name": "Instrata Upper Kirby â 2300 Richmond Ave",
+    "name": "Instrata Upper Kirby Ã¢ÂÂ 2300 Richmond Ave",
     "price": 2357,
     "sqft": 0,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Greenway / Upper Kirby â near River Oaks",
+    "neighborhood": "Greenway / Upper Kirby Ã¢ÂÂ near River Oaks",
     "available": "",
     "status": "interested",
     "beds2": true,
@@ -73,16 +73,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 90,
-    "notes": "OVER BUDGET. 2bd starts $2,357/mo. Built 2007. Walker's Paradise (90). 24hr gym + spin room, pool, garage, massage room, EV charging. Special offer (6 wks free) may be expired â verify. zillow.com/apartments/houston-tx/instrata-upper-kirby/5XjwzF/"
+    "notes": "OVER BUDGET. 2bd starts $2,357/mo. Built 2007. Walker's Paradise (90). 24hr gym + spin room, pool, garage, massage room, EV charging. Special offer (6 wks free) may be expired Ã¢ÂÂ verify. zillow.com/apartments/houston-tx/instrata-upper-kirby/5XjwzF/"
   },
   {
     "id": "ex_wellunder",
-    "name": "Sawyer Heights Lofts â 901 Sawyer St",
+    "name": "Sawyer Heights Lofts Ã¢ÂÂ 901 Sawyer St",
     "price": 1399,
     "sqft": 750,
     "beds": "2",
     "baths": "1",
-    "neighborhood": "Sawyer Yards â 12 min to downtown",
+    "neighborhood": "Sawyer Yards Ã¢ÂÂ 12 min to downtown",
     "available": "2026-07-01",
     "status": "interested",
     "beds2": true,
@@ -92,16 +92,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 61,
-    "notes": "Example â well under budget tier. Older building, industrial loft feel, good sq footage for the price."
+    "notes": "Example Ã¢ÂÂ well under budget tier. Older building, industrial loft feel, good sq footage for the price."
   },
   {
     "id": "ex_mid",
-    "name": "Jackson Hill â 1011 W 11th St",
+    "name": "Jackson Hill Ã¢ÂÂ 1011 W 11th St",
     "price": 1749,
     "sqft": 950,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Greater Heights â 15 min to downtown",
+    "neighborhood": "Greater Heights Ã¢ÂÂ 15 min to downtown",
     "available": "2026-07-15",
     "status": "interested",
     "beds2": true,
@@ -111,16 +111,16 @@
     "parking": true,
     "pets": false,
     "walkscore": 68,
-    "notes": "Example â mid-range tier. In-unit W/D, no gym on-site. Quiet neighborhood."
+    "notes": "Example Ã¢ÂÂ mid-range tier. In-unit W/D, no gym on-site. Quiet neighborhood."
   },
   {
     "id": "ex_near",
-    "name": "Cortland River Oaks â 2323 S Shepherd Dr",
+    "name": "Cortland River Oaks Ã¢ÂÂ 2323 S Shepherd Dr",
     "price": 2099,
     "sqft": 1100,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "River Oaks â 10 min to downtown",
+    "neighborhood": "River Oaks Ã¢ÂÂ 10 min to downtown",
     "available": "2026-08-01",
     "status": "interested",
     "beds2": true,
@@ -130,16 +130,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 79,
-    "notes": "Example â near budget tier. Full amenity complex, gym, pool, W/D. Premium area."
+    "notes": "Example Ã¢ÂÂ near budget tier. Full amenity complex, gym, pool, W/D. Premium area."
   },
   {
     "id": "ex_over",
-    "name": "Rone Residences â 2111 Welch St",
+    "name": "Rone Residences Ã¢ÂÂ 2111 Welch St",
     "price": 2450,
     "sqft": 1267,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Museum District â 8 min to downtown",
+    "neighborhood": "Museum District Ã¢ÂÂ 8 min to downtown",
     "available": "2026-07-01",
     "status": "interested",
     "beds2": true,
@@ -149,16 +149,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 88,
-    "notes": "Example â over budget tier. Luxury high-rise, rooftop pool, concierge. Stretch unit."
+    "notes": "Example Ã¢ÂÂ over budget tier. Luxury high-rise, rooftop pool, concierge. Stretch unit."
   },
   {
     "id": "seed_camden_vanderbilt",
-    "name": "Camden Vanderbilt â 7171 Buffalo Speedway",
+    "name": "Camden Vanderbilt Ã¢ÂÂ 7171 Buffalo Speedway",
     "price": 1919,
     "sqft": 1350,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Braeswood Place / West U â near TMC, Rice, Museum District",
+    "neighborhood": "Braeswood Place / West U Ã¢ÂÂ near TMC, Rice, Museum District",
     "available": "",
     "status": "interested",
     "beds2": true,
@@ -172,12 +172,12 @@
   },
   {
     "id": "seed_barnett",
-    "name": "Barnett — 1414 S Dairy Ashford Rd",
+    "name": "Barnett â 1414 S Dairy Ashford Rd",
     "price": 1585,
     "sqft": 1147,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Eldridge / West Oaks — Energy Corridor, far west Houston",
+    "neighborhood": "Eldridge / West Oaks â Energy Corridor, far west Houston",
     "available": "",
     "status": "interested",
     "beds2": true,
@@ -187,16 +187,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 67,
-    "notes": "2bd starts $1,585/mo (1,017–1,147 sqft). Built 1992. 6 weeks free on select units. 24hr gym, pool, tennis courts, dog park. Covered carport only (no garage). Suburban/car-dependent area. Near I-10 & Beltway 8. zillow.com/apartments/houston-tx/barnett/5XhryX/"
+    "notes": "2bd starts $1,585/mo (1,017â1,147 sqft). Built 1992. 6 weeks free on select units. 24hr gym, pool, tennis courts, dog park. Covered carport only (no garage). Suburban/car-dependent area. Near I-10 & Beltway 8. zillow.com/apartments/houston-tx/barnett/5XhryX/"
   },
   {
     "id": "seed_arlo_memorial",
-    "name": "Arlo Memorial — 935 N Wilcrest Dr",
+    "name": "Arlo Memorial â 935 N Wilcrest Dr",
     "price": 1832,
     "sqft": 1890,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Memorial — west Houston near I-10 & Beltway 8",
+    "neighborhood": "Memorial â west Houston near I-10 & Beltway 8",
     "available": "",
     "status": "interested",
     "beds2": true,
@@ -206,16 +206,16 @@
     "parking": true,
     "pets": true,
     "walkscore": 53,
-    "notes": "2bd starts $1,832/mo. Built 2016. Controlled-access garage. Athletic club, 2 pools, EV charging, outdoor kitchen. Walk score 53 — car-dependent suburb. Near I-10 & Beltway 8. zillow.com/apartments/houston-tx/arlo-memorial/5zkwZz/"
+    "notes": "2bd starts $1,832/mo. Built 2016. Controlled-access garage. Athletic club, 2 pools, EV charging, outdoor kitchen. Walk score 53 â car-dependent suburb. Near I-10 & Beltway 8. zillow.com/apartments/houston-tx/arlo-memorial/5zkwZz/"
   },
   {
     "id": "seed_san_paloma",
-    "name": "San Paloma — 1255 Eldridge Pkwy",
+    "name": "San Paloma â 1255 Eldridge Pkwy",
     "price": 1334,
     "sqft": 1220,
     "beds": "2",
     "baths": "2",
-    "neighborhood": "Eldridge / West Oaks — Energy Corridor, far west Houston",
+    "neighborhood": "Eldridge / West Oaks â Energy Corridor, far west Houston",
     "available": "",
     "status": "interested",
     "beds2": true,
@@ -225,6 +225,6 @@
     "parking": false,
     "pets": true,
     "walkscore": 67,
-    "notes": "2bd starts $1,334/mo (1,140–1,220 sqft). Built 2006. Health club, pool, heated spa, dog park. Surface lot only — garages available at extra cost. Recent mgmt change. $200 off promo (code PEP). Same suburban Eldridge area as Barnett. zillow.com/apartments/houston-tx/san-paloma/5XjwvR/"
+    "notes": "2bd starts $1,334/mo (1,140â1,220 sqft). Built 2006. Health club, pool, heated spa, dog park. Surface lot only â garages available at extra cost. Recent mgmt change. $200 off promo (code PEP). Same suburban Eldridge area as Barnett. zillow.com/apartments/houston-tx/san-paloma/5XjwvR/"
   }
 ]
